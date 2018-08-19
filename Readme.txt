@@ -1,2 +1,2 @@
 Hello Git
-My local changes in readme file
+My remote changes in readme file
