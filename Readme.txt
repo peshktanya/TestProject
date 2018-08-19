@@ -1,2 +1,2 @@
 Hello Git
-2nd line to create merge conflict
+My local changes in readme file
